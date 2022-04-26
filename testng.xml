@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" data-provider-thread-count="2" >
+    <test verbose="2" name="Lambda Test Selenium-java-101" thread-count="2" parallel="methods">
+        <classes>
+          <class name="tests.TestScenario1"/>
+            <class name="tests.TestScenario2"/>
+          <class name="tests.TestScenario3"/>
+        </classes>
+    </test>
+</suite>
