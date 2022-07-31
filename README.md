@@ -1,5 +1,3 @@
-Welcome to Lambdatest - Java TestNG Selenium
-
 Step 1: Configure your settings and required capabilites for your test
 
 For running a test we will need your username and access key to map with our cloud infrastrure.
