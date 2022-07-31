@@ -16,8 +16,6 @@ Step 2: Running Tests
 
 We have preinstalled all the required environment for running the tests. You can now execute the tests in the console by the following commands:
 
-To run single test
-
 $ mvn clean test
 
 Once you have completed running the tests you can find the results at : https://automation.lambdatest.com with the build name TestNG as a prefix.
